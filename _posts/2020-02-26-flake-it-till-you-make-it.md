@@ -5,7 +5,7 @@ subtitle: Dreams of the future
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+# tags: [books, test]
 ---
 
 Ever since I was a kid, I have been fascinated with the idea of putting factories in space. Watching and reading too many Sci-fi books and movies. Of course, if you are going to have factories in space you need to mine as well, to provide the raw materials. Asteroid mining has been considered for a long time and a believe there may have been one or two American startups who plan to do this. There are a huge number of benefits to producing products in space, drugs and chemicals being just one. Research on the ISS and other space experiments has shown that zero or low gravity is very beneficial to producing, growing and purity of chemicals used in the manufacturing of pharmaceuticals. In space we have unlimited free energy in the form of our sun and earth polluting factories would no longer be a problem.  
