@@ -3,7 +3,7 @@ layout: post
 title: My Project
 subtitle: Dreams of the future
 cover-img: /assets/img/mars-1.jpg
-thumbnail-img: /assets/img/IMG_20201228_143329_157.jpg
+thumbnail-img: /assets/img/mars-1.jpg
 share-img: /assets/img/
 # tags: [books, test]mars-1.jpg
 ---
