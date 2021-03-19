@@ -4,7 +4,7 @@ title: My Project
 subtitle: Dreams of the future
 cover-img: /assets/img/https://github.com/jtogrey/jtogrey.github.io/blob/master/assets/img/nasa-releases-panorama-taken-by-mars-rover.jpg
 thumbnail-img: /assets/img/IMG_20201228_143329_157.jpg
-share-img: /assets/img/https://github.com/jtogrey/jtogrey.github.io/blob/master/assets/img/nasa-releases-panorama-taken-by-mars-rover.jpg
+#share-img: /assets/img/https://github.com/jtogrey/jtogrey.github.io/blob/master/assets/img/nasa-releases-panorama-taken-by-mars-rover.jpg
 # tags: [books, test]
 ---
 
