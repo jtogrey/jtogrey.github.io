@@ -2,10 +2,10 @@
 layout: post
 title: My Project
 subtitle: Dreams of the future
-cover-img: /assets/img/https://github.com/jtogrey/jtogrey.github.io/blob/master/assets/img/nasa-released-this-photo-showing-the-perseverance-rover-on-mars-1614201589669-2.jpg
+cover-img: /assets/img/mars-1.jpg
 thumbnail-img: /assets/img/IMG_20201228_143329_157.jpg
-share-img: /assets/img/https://github.com/jtogrey/jtogrey.github.io/blob/master/assets/img/nasa-released-this-photo-showing-the-perseverance-rover-on-mars-1614201589669-2.jpg
-# tags: [books, test]
+share-img: /assets/img/
+# tags: [books, test]mars-1.jpg
 ---
 
 Ever since I was a kid, I have been fascinated with the idea of putting factories in space. Watching and reading too many Sci-fi books and movies. Of course, if you are going to have factories in space you need to mine as well, to provide the raw materials. Asteroid mining has been considered for a long time and a believe there may have been one or two American startups who plan to do this. There are a huge number of benefits to producing products in space, drugs and chemicals being just one. Research on the ISS and other space experiments has shown that zero or low gravity is very beneficial to producing, growing and purity of chemicals used in the manufacturing of pharmaceuticals. In space we have unlimited free energy in the form of our sun and earth polluting factories would no longer be a problem.  
